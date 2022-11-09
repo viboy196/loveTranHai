@@ -39,7 +39,7 @@ a {
   -webkit-text-fill-color: transparent;
   animation: textclip 5s linear infinite;
   display: inline-block;
-      font-size: 60px;
+      font-size: 1rem;
 }
 
 @keyframes textclip {
